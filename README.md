@@ -62,3 +62,7 @@ Nikhil Adyapak et al., *Code Runtime Complexity Prediction*, ERCICA 2023, Spring
 ## Author
 
 Nikhil Adyapak - [portfolio](https://nikhiladyapak.github.io/) - [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
+
+---
+
+Built by Nikhil Adyapak · [Portfolio](https://nikhiladyapak.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
